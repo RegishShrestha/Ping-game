@@ -11,5 +11,5 @@ Rules:
 
 This is it enjoy the game
 You can also play it in this website:
-
+https://inquisitive-lily-d7c6ac.netlify.app/
 
